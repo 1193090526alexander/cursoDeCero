@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 public class EjemploStringInmutable {
     public static void main(String[] args) {
         String Curso = "Programacion Java";

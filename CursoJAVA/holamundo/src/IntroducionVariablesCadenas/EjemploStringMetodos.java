@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 public class EjemploStringMetodos {
     public static void main(String[] args) {
         String Nombre = "Helmer Alexander Patiño Quintero";

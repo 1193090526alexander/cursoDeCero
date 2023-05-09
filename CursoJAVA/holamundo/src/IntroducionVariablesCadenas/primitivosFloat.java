@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 public class primitivosFloat {
     static long floatDefecto;
     public static void main(String[] args) {

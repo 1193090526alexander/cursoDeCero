@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 import java.util.Scanner;
 
 public class DetalleDeFactura {

@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 import java.util.Locale;
 
 public class HolaMundo {

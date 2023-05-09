@@ -1,3 +1,5 @@
+package IntroducionVariablesCadenas;
+
 public class EjemploStringMetodosArreglo {
     public static void main(String[] args) {
         String Trabalenguas = "Trabalenguas";
